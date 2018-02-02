@@ -20,4 +20,4 @@
 
 ### Follow every steps in the Packages Readme!
 
-Download the Latest Release [Download ➤ TP-LINK WIFI Network macOS.zip](https://github.com/chris1111/TP-LINK-WIFI-Network-macOS-High-Sierra/releases/tag/V1)
+Download the Latest Release [Download ➤ TP-LINK WIFI Network macOS.zip](https://github.com/chris1111/TP-LINK-WIFI-Network-macOS/releases/tag/V1)
