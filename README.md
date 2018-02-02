@@ -8,7 +8,7 @@
 
 ### This is a Packages installer for macOS (Working for Hackintosh PC Laptop)
 
-#### Works from Mac OS X Snow Leopard 10.16 to MacOS High Sierra 10.13
+#### Works from Mac OS X Snow Leopard 10.6 to MacOS High Sierra 10.13
 
 ### Follow every steps!
 
