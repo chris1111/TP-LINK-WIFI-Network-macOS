@@ -12,7 +12,6 @@
 
 ### Follow every steps!
 
-![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/1captu26.png)
 
 ![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/1captu27.png)
 
