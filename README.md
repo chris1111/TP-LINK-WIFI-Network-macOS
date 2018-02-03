@@ -14,9 +14,9 @@
 
 ![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/1captu26.png)
 
-![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/captu311.png)
+![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/1captu27.png)
 
-![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/wifi3110.png)
+![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/captu313.png)
 
 ### Follow every steps in the Packages Readme!
 
