@@ -6,7 +6,7 @@
 
 ![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/18020110.png)
 
-### This is a Packages installer for macOS (Working for Hackintosh PC Laptop)
+### This is a Packages installer for macOS (Working also for Hackintosh PC Laptop)
 
 #### Works from Mac OS X Snow Leopard 10.6 to MacOS High Sierra 10.13
 
