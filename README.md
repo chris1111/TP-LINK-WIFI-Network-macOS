@@ -7,6 +7,7 @@
 ![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/18020110.png)
 
 ### This is a Packages installer for macOS (Working also for Hackintosh PC Laptop)
+- You need System Integrity Protection disable? (SIP) to using third party App
 
 #### Works from Mac OS X Snow Leopard 10.6 to macOS Mojave 10.14
 
